@@ -1,0 +1,16 @@
+{
+  "name": "inurdjango-m-rest-test",
+  "description": "test environment for inur (invoice for nurses)",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
